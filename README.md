@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🚀 Créer des expériences avec React, Next.js et TypeScript<br><br>📘 Actuellement en apprentissage : Le développement fullstack et le perfectionnement de mes compétences<br><br>🎯 Objectif : Devenir un expert en développement fullstack et exceller dans la création d'applications évolutives  <br><br>🥊  Fun fact : Quand je ne code pas, on peut me trouver en train de boxer sur le ring ou de soulever des poids à la salle de sport !</p>
+<p align="left">🚀 Créer des expériences avec React, Next.js et TypeScript<br><br>📘 Actuellement en apprentissage : Le développement fullstack et le perfectionnement de mes compétences<br><br>🎯 Objectif : Devenir un expert en développement fullstack et exceller dans la création d'applications évolutives  <br><br>🥊  Fun fact : Quand je ne code pas, on peut me trouver en train de boxer sur le ring ou de soulever des poids à la salle de sport </p>
 
 ###
 
